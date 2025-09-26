@@ -1,38 +1,20 @@
-# CalypsoBot
+# Hi, I'm Bayu 👋
 
-CalypsoBot adalah sebuah proyek bot yang dikembangkan dengan tujuan untuk memberikan berbagai fitur otomatisasi dan bantuan pada platform yang didukung.
+I'm a student developer passionate about open-source and automation.  
+Currently working on [CalypsoBot](https://github.com/bayuningrum/CalypsoBot) — a customizable bot designed for task automation and API integrations.  
 
-## Fitur Utama
+### 🔧 Technologies & Tools
+- Python, Node.js
+- REST APIs, Webhooks
+- Git & GitHub Actions
+- Docker (learning in progress)
 
-- Otomatisasi tugas-tugas tertentu
-- Integrasi dengan API eksternal
-- Mudah dikustomisasi
+### 🌱 Currently learning
+- Cloud deployment (Heroku, DigitalOcean, etc.)
+- DevOps basics
+- Database optimization
 
-## Instalasi
-
-1. Clone repository ini:
-    ```bash
-    git clone https://github.com/bayuningrum/CalypsoBot.git
-    ```
-2. Masuk ke folder proyek:
-    ```bash
-    cd CalypsoBot
-    ```
-3. Ikuti instruksi instalasi sesuai dengan dokumentasi atau kebutuhan project.
-
-## Penggunaan
-
-Jalankan bot dengan perintah berikut:
-```bash
-python main.py
-```
-
-## Kontribusi
-
-Kontribusi sangat terbuka! Silakan buat pull request atau buka issue jika ingin menambahkan fitur atau menemukan bug.
-
-## Lisensi
-
-Proyek ini menggunakan lisensi MIT.
-
----
+### 📫 Connect with me
+- LinkedIn: [bayuningrum](https://www.linkedin.com/in/bayuningrum)
+- Twitter: [@bayucodes](https://twitter.com/bayucodes)
+- Dev.to: [bayuningrum](https://dev.to/bayuningrum)
